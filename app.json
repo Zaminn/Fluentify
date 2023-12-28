@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Fluentify",
+    "slug": "Fluentify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Screens/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./Screens/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Screens/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./Screens/assets/favicon.png"
+    }
+  }
+}
